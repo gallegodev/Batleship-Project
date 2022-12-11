@@ -1,5 +1,15 @@
 * {
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
     text-align: center;
     color: gold;
+}
+
+#board {
+    position: relative;
+    width: 1024px;
+    height: 863px;
+    margin: auto;
+    background-image: url(../images/background1\ \(2\).jpg);
 }
